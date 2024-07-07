@@ -1,0 +1,2 @@
+JavaScriptで制作したTodoリストです
+JSの学習に使用しました
